@@ -1,0 +1,9 @@
+Nome do html:Ford Escort Hatch GL 1.6 MPi 8V - São Bernardo do Campo - SP. Anúncio 14207814 - iCarros.htm
+valor;R$ 7.500,00
+marca;Ford
+modelo;Escort
+combustivel;
+Cambio;manual
+km;135.000
+cor;Prata
+portas;4

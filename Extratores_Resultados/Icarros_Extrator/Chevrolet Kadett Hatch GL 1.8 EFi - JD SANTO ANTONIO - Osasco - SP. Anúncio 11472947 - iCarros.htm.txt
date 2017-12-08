@@ -1,0 +1,9 @@
+Nome do html:Chevrolet Kadett Hatch GL 1.8 EFi - JD SANTO ANTONIO - Osasco - SP. Anúncio 11472947 - iCarros.htm
+valor;R$ 7.900,00
+marca;Chevrolet
+modelo;Kadett
+combustivel;
+Cambio;manual
+km;132.000
+cor;Prata
+portas;2

@@ -1,0 +1,9 @@
+Nome do html:Chevrolet Kadett Hatch GL 1.8 EFi - Niterói - RJ. Anúncio 14503731 - iCarros.htm
+valor;R$ 5.500,00
+marca;Chevrolet
+modelo;Kadett
+combustivel;
+Cambio;manual
+km;350.000
+cor;Cinza
+portas;2

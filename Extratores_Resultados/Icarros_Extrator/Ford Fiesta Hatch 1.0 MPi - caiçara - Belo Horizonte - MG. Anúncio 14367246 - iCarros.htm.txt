@@ -1,0 +1,9 @@
+Nome do html:Ford Fiesta Hatch 1.0 MPi - caiçara - Belo Horizonte - MG. Anúncio 14367246 - iCarros.htm
+valor;R$ 5.900,00
+marca;Ford
+modelo;Fiesta
+combustivel;
+Cambio;manual
+km;150.000
+cor;Laranja
+portas;4

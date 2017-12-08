@@ -1,0 +1,9 @@
+Nome do html:Ford Ka GL 1.0 MPi - São Paulo - SP. Anúncio 13845952 - iCarros.htm
+valor;R$ 6.999,00
+marca;Ford
+modelo;Ka
+combustivel;
+Cambio;manual
+km;78.000
+cor;Branco
+portas;2
